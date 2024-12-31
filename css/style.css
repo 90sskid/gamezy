@@ -2650,7 +2650,7 @@ span.btn.wow.fadeInUp {
 	margin-bottom: 5px;
 }
 .team-member-box:hover .team-member-content h4 a {
-	color: #e8a301;
+	color: #FFE900;
 }
 .team-member-box:hover .team-member-thumb img {
 	box-shadow: 0px 2px 21px 0px rgba(17, 8, 23, 0.16);
@@ -4037,7 +4037,7 @@ span.btn.wow.fadeInUp {
 .home-four-blog-post .blog-post-content .read-more:hover,
 .home-four-blog-post .blog-post-content h4 a:hover,
 .home-four-blog-post .blog-meta ul li a:hover {
-	color: #e9a401;
+	color: #FFE900;
 }
 
 /* 21. Pagination */
